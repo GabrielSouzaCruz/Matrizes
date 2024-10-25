@@ -17,6 +17,20 @@ class Matrizes
         }//fim i
 
     }//fim leia
+    public static void gera(int[,] mat)
+    {
+        Random random = new Random();
+        int linhas = mat.GetLength(0);
+        int cols = mat.GetLength(1);
+
+        for (int i = 0; i < linhas; i++)
+        {
+            for (int j = 0; j < cols; j++)
+            {
+                mat[i, j] = random.Next(1, 100);
+            }
+        }
+    }
 
     public static void mostra(int[,] mat)
     {
@@ -45,8 +59,8 @@ class Matrizes
 
         int[,] matriz = new int[linhas, cols];
 
-        Console.WriteLine("Entre com Dados para a Matriz: ");
-        leia(matriz);
+        Console.WriteLine("Dados para a Matriz: ");
+        gera(matriz);
 
         Console.WriteLine("Dados da Matriz: ");
         mostra(matriz);

@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\12989644660\\Downloads\\Projetos_VisualStudio\\Matrizes_2510\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\12989644660\\Desktop\\Nova pasta\\Matrizes_2510\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9DBDE6-80A2-462D-87AA-583C2E916F9E}|Matrizes_2510\\Matrizes_2510.csproj|c:\\users\\12989644660\\desktop\\nova pasta\\matrizes_2510\\matrizes_2510\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9DBDE6-80A2-462D-87AA-583C2E916F9E}|Matrizes_2510\\Matrizes_2510.csproj|solutionrelative:matrizes_2510\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\12989644660\\Desktop\\Nova pasta\\Matrizes_2510\\Matrizes_2510\\Program.cs",
+              "RelativeDocumentMoniker": "Matrizes_2510\\Program.cs",
+              "ToolTip": "C:\\Users\\12989644660\\Desktop\\Nova pasta\\Matrizes_2510\\Matrizes_2510\\Program.cs",
+              "RelativeToolTip": "Matrizes_2510\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:57:15.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

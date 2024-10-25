@@ -12,3 +12,18 @@ C:\Users\12989644660\Downloads\Projetos_VisualStudio\Matrizes_2510\Matrizes_2510
 C:\Users\12989644660\Downloads\Projetos_VisualStudio\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\Matrizes_2510.pdb
 C:\Users\12989644660\Downloads\Projetos_VisualStudio\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\Matrizes_2510.genruntimeconfig.cache
 C:\Users\12989644660\Downloads\Projetos_VisualStudio\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\ref\Matrizes_2510.dll
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\bin\Debug\net6.0\Matrizes_2510.exe
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\bin\Debug\net6.0\Matrizes_2510.deps.json
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\bin\Debug\net6.0\Matrizes_2510.runtimeconfig.json
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\bin\Debug\net6.0\Matrizes_2510.dll
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\bin\Debug\net6.0\Matrizes_2510.pdb
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\Matrizes_2510.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\Matrizes_2510.AssemblyInfoInputs.cache
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\Matrizes_2510.AssemblyInfo.cs
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\Matrizes_2510.csproj.CoreCompileInputs.cache
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\Matrizes_2510.sourcelink.json
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\Matrizes_2510.dll
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\refint\Matrizes_2510.dll
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\Matrizes_2510.pdb
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\Matrizes_2510.genruntimeconfig.cache
+C:\Users\12989644660\Desktop\Nova pasta\Matrizes_2510\Matrizes_2510\obj\Debug\net6.0\ref\Matrizes_2510.dll

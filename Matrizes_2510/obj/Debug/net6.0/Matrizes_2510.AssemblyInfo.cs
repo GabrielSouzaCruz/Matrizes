@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Matrizes_2510")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a7d92194c8db108e386af3fc9dd28fe9ff402c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Matrizes_2510")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Matrizes_2510")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
